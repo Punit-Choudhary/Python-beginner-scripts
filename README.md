@@ -5,4 +5,6 @@ I can feel your need, this repo is dedicated to beginner friendly Python project
 ### Projects
 1. [Acronyms using Python](https://github.com/Punit-Choudhary/Python-beginner-projects/blob/main/acronyms.py)
     - [click here to read detailed explaination in blog](https://medium.com/@itspunitchoudhary/creating-acronyms-using-python-1757b29cb107)
+2. [BMI calculator](https://github.com/Punit-Choudhary/Python-beginner-projects/blob/main/bmiCalculator.py)
+
 
