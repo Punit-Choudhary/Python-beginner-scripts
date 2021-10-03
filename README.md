@@ -14,7 +14,7 @@ Python geek, assemble here and contribute freely.
 ([Explanatory Blog](https://punitchoudhary.medium.com/python-bmi-calculator-project-8502d289dbeb))
 3. [Telegram Bot](https://github.com/Punit-Choudhary/Python-beginner-scripts/blob/main/bot.py)
 4. [Clock](https://github.com/Punit-Choudhary/Python-beginner-scripts/blob/main/clock.py)
-5. [File information 6Generator](https://github.com/Punit-Choudhary/Python-beginner-scripts/blob/main/fileinfo.py)
+5. [File information Generator](https://github.com/Punit-Choudhary/Python-beginner-scripts/blob/main/fileinfo.py)
 6. [QR Code Generator](https://github.com/Punit-Choudhary/Python-beginner-projects/blob/main/qrGenerator.py)
 7. [Scrapper](https://github.com/Punit-Choudhary/Python-beginner-scripts/blob/main/scrapper2.py)
 8. [Spelling Checker](https://github.com/Punit-Choudhary/Python-beginner-scripts/blob/main/spellingChecker.py)
