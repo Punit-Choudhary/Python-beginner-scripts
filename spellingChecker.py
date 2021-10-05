@@ -1,6 +1,6 @@
 from textblob import TextBlob 
   
-a = "comuter progrming is gret"
+a = "comuter progrming is great"
 print(f"original text: {a}") 
   
 b = TextBlob(a) 
