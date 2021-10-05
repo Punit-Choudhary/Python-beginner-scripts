@@ -1,0 +1,49 @@
+from textblob import TextBlob 
+  
+a = "comuter progrming is great"
+print(f"original text: {a}") 
+  
+b = TextBlob(a) 
+print(f"corrected text: {str(b.correct())}")
+
+#another method is long but i did this to improve
+print("Hello Punit")
+'''First, we need to install the required package using the following command in our python environment''' '''ok bro'''
+pip install pyspellchecker 
+Now we see below how the package is used to point out the wrongly spelled words as well as make some suggestions about possible correct words.
+
+from spellchecker import SpellChecker
+
+spell = SpellChecker()
+
+# find those words that may be misspelled
+misspelled = spell.unknown(['let', 'us', 'wlak','on','the','groun'])
+
+for word in misspelled:
+    # Get the one `most likely` answer
+    print(spell.correction(word))
+
+    # Get a list of `likely` options
+    print(spell.candidates(word))
+'''When we run the above program we get the following output −
+
+group
+{'group', 'ground', 'groan', 'grout', 'grown', 'groin'}
+walk
+{'flak', 'weak', 'walk'}
+Case Sensitive
+If we use Let in place of let then this becomes a case sensitive comparison of the word with the closest matched words in dictionary and the result looks different now.
+
+from spellchecker import SpellChecker'''
+
+spell = SpellChecker()
+
+# find those words that may be misspelled
+misspelled = spell.unknown(['Let', 'us', 'wlak','on','the','groun'])
+
+for word in misspelled:
+    # Get the one `most likely` answer
+    print(spell.correction(word))
+
+    # Get a list of `likely` options
+    print(spell.candidates(word))
