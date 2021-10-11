@@ -2,7 +2,7 @@
 from tkinter import *
 w=Tk()
 w.geometry("500x500")
-w.title("Calc -- Punit Choudhary")
+w.title("Calculator")
 w.configure(bg="#03befc")
 
 #Functions(Keypad)
@@ -117,7 +117,7 @@ def divide():
 
 #Labels
 
-lbl1 = Label(w, text="PC - Calculator", font=("Times New Roman", 35), fg="#232226", bg="#fc9d03")
+lbl1 = Label(w, text="Calculator", font=("Times New Roman", 35), fg="#232226", bg="#fc9d03")
 
 #Entryboxes
 txt1 = Entry(w, width=80, font=30)
