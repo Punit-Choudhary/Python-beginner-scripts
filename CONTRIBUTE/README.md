@@ -1,13 +1,13 @@
 # How to Contribute
 
-First of all, thanks for taking the time to contribute! :purple_heart:
+First of all, Thanks for taking the time to contribute! :purple_heart:
 
 All types of contributions are encouraged and valued. Please make sure to read the relevant section before making your contribution. It will make it a lot easier for the maintainers and smooth out the experience for all involved. The community looks forward to your contributions. 🎉
 
 **Here are the categories that you may contribute to:**
 - [Math](CONTRIBUTE_MATH.md)
-- [Patterns](../Patterns/)
-- [Misc](../Misc/)
+- [Patterns](CONTRIBUTE_PATTERNS.md)
+- [Projects](CONTRIBUTE_PROJECTS.md)
 
 Each category contains specific kind of programs/scripts, visit them to know more about them individually!
 
