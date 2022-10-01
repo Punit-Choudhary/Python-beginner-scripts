@@ -1,42 +1,35 @@
-# Contributing to Python Beginner Scripts
+# Contributing ✨
 
-First of all, Thank you for taking the time to contribute! :purple_heart:
+When contributing to this repository, please first discuss the change you wish to make via issue.
+We have created some templates that you may use.
 
-All types of contributions are encouraged and valued. Please make sure to read the relevant section before making your contribution.
-It will make it a lot easier for the maintainers and smooth out the experience for all involved. The community looks forward to your contributions. 🎊
+Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
+## Issue Process
+1. Ensure there is no existing duplicate Issue
+2. Use Issue Templates
+3. **Only make PRs for the Issue assigned to you**
 
-# Steps for Contribution
+## Pull Request Process
 
-## 1. Fork this repository
-Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
+1. **Only make PRs for the Issue assigned to you**
+2. Lint your code using pylint
+3. Use PR Template
+4. Read [CONTRIBUTE](CONTRIBUTE/README.md)
 
-## 2. Clone the forked repository
-In your forked repository click on the **green code button** and copy the link shown.
+### Need some help regarding the basics?🤔
 
-Clone your forked repository by running the **git clone** command with you copied link on you command line.
+You can refer to the following articles on basics of Git and Github and also contact the Project Mentors,
+in case you are stuck:
 
-```git clone <url_you_just_copied>```
+- [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
+- [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-an-issue-or-pull-request)
+- [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
+- [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+- [Learn GitHub from Scratch](https://lab.github.com/githubtraining/introduction-to-github)
 
-Do the following command to get into the repository directory:
+:star2: Star it :fork_and_knife:Fork it :handshake: Contribute to it!
 
-```cd <your_directory>```
+Discord server  - http://pragmaticprogrammer.in/discord
 
-Then create your own branch in the repo using:
-
-```git checkout -b <your_branch_name>```
-
-## 3. Add your changes
-You can see what all you changes using the `git status` command.
-
-## 4. Add all you changes 
-Add all your changes to you branch using the `git add .` command
-
-## 5. Push you changes to GitHub
-Switch to the main branch using this command:
-
-```git checkout main``` 
-
-Push all your changes to GitHub using the command:
-
-```git push --set-upstream origin <your_branch_name>```
+Happy Coding :purple_heart:
