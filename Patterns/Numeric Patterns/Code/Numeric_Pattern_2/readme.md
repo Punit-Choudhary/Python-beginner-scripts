@@ -2,9 +2,7 @@
 
 **Pattern Image:**
 
-Eg:
-
-![image](../../img/numericpattern2.PNG)
+![image](https://github.com/R-Yash/Python-beginner-scripts/blob/main/Patterns/Numeric%20Patterns/img/numericpattern2.PNG)
 
 **Contributor:** [Avantsa Raja Yashwanth](https://github.com/R-Yash)
 
