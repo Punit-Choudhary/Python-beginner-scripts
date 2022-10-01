@@ -15,7 +15,7 @@ assignees: ''
 
 - Use comments and docstrings
 - Make folder if project contains more than one file
-- Lint your code using pylint
+- Lint your code using flake8
 
 **I want to:** (Please add/remove options as per requirement)
 

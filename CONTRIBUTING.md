@@ -13,7 +13,7 @@ Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in
 ## Pull Request Process
 
 1. **Only make PRs for the Issue assigned to you**
-2. Lint your code using pylint
+2. Lint your code using [flake8](https://flake8.pycqa.org/en/latest/)
 3. Use PR Template
 4. Read [CONTRIBUTE](CONTRIBUTE/README.md)
 

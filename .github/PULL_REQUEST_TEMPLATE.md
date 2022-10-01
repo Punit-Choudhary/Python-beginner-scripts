@@ -17,7 +17,7 @@ mention your changes here
 
 
 - [ ] PR is regarding Code
-- [x] I am following clean code and Documentation and my code is well linted with pylint.
+- [x] I am following clean code and Documentation and my code is well linted with flake8.
 - [ ] I am using external libraries and I have created requirements.txt in my project folder
 - [ ] Script is tested and running perfectly fine on my system
 
