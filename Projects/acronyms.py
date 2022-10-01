@@ -7,6 +7,6 @@ text = user_input.split()
 acronyms = " "
 
 for i in text:
-	acronyms += str(i[0].upper())
+    acronyms += str(i[0].upper())
 
 print(f"Acronyms of '{user_input}' is {acronyms}")
