@@ -73,11 +73,11 @@ if __name__ == '__main__':
     print(
         "Select Your Emotion:\n 1. Anger\n 2. Anticipation\n 3. Disgust\n 4. Fear\n 5. Joy\n 6. Sad\n 7. Surprise\n 8. Trust"
     )
-    emotion = input("Enter the emotion: ")
+    emotion = int(input("Enter a digit between 1 and 8 based on your emotion: "))
     a = main(emotion)
     count = 0
 
-    if (emotion == "Disgust" or emotion == "Anger" or emotion == "Surprise"):
+    if (emotion == 1 or emotion == 3 or emotion == 7):
 
         for i in a:
 
