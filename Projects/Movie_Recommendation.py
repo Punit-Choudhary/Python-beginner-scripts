@@ -13,42 +13,42 @@ def main(emotion):
 
     # IMDb Url for Drama genre of
     # movie against emotion Sad
-    if (emotion == "Sad"):
+    if (emotion == 6):
         urlhere = 'http://www.imdb.com/search/title?genres=drama&title_type=feature&sort=moviemeter, asc'
 
     # IMDb Url for Musical genre of
     # movie against emotion Disgust
-    elif (emotion == "Disgust"):
+    elif (emotion == 3):
         urlhere = 'http://www.imdb.com/search/title?genres=musical&title_type=feature&sort=moviemeter, asc'
 
     # IMDb Url for Family genre of
     # movie against emotion Anger
-    elif (emotion == "Anger"):
+    elif (emotion == 1):
         urlhere = 'http://www.imdb.com/search/title?genres=family&title_type=feature&sort=moviemeter, asc'
 
     # IMDb Url for Thriller genre of
     # movie against emotion Anticipation
-    elif (emotion == "Anticipation"):
+    elif (emotion == 2):
         urlhere = 'http://www.imdb.com/search/title?genres=thriller&title_type=feature&sort=moviemeter, asc'
 
     # IMDb Url for Sport genre of
     # movie against emotion Fear
-    elif (emotion == "Fear"):
+    elif (emotion == 4):
         urlhere = 'http://www.imdb.com/search/title?genres=sport&title_type=feature&sort=moviemeter, asc'
 
     # IMDb Url for Thriller genre of
     # movie against emotion Joy
-    elif (emotion == "Joy"):
+    elif (emotion == 5):
         urlhere = 'http://www.imdb.com/search/title?genres=thriller&title_type=feature&sort=moviemeter, asc'
 
     # IMDb Url for Western genre of
     # movie against emotion Trust
-    elif (emotion == "Trust"):
+    elif (emotion == 8):
         urlhere = 'http://www.imdb.com/search/title?genres=western&title_type=feature&sort=moviemeter, asc'
 
     # IMDb Url for Film_noir genre of
     # movie against emotion Surprise
-    elif (emotion == "Surprise"):
+    elif (emotion == 7):
         urlhere = 'http://www.imdb.com/search/title?genres=film_noir&title_type=feature&sort=moviemeter, asc'
 
     # HTTP request to get the data of
