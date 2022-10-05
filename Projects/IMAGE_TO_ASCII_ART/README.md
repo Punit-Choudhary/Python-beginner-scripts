@@ -10,4 +10,7 @@ The latest execution of script will save a copy of the ASCII art with name of as
 - Run the main.py python script
 - Enter the image path and ASCII image width
 
+### REQUIREMENTS
+```pip install Pillow```
+
 ### Hoorah! You're done with an ASCII art of your favourite image

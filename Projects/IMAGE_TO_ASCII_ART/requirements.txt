@@ -1,13 +1,1 @@
-Your device should have these installed :
-    1. Python version 3
-    2. pip (Python installs packages)
-
-Install the following package using pip or pip3 in command-prompt or terminal:
-
-    //in case you already have python3 as your default
-    pip install Pillow		
-
-    or
-
-    //in case you don't have python3 as your default
-    pip3 install Pillow
+PIL
