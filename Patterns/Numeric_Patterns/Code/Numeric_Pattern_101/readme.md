@@ -2,7 +2,7 @@
 
 **Pattern Image:**
 
-![image](https://github.com/Punit-Choudhary/Python-beginner-scripts/blob/main/Patterns/Numeric%20Patterns/img/numericpattern101.PNG)
+![image](/Patterns/Numeric_Patterns/img/numericpattern101.PNG)
 
 **Contributor:** [Harshith Naresh Chunduri](https://github.com/Harshith-19)
 
