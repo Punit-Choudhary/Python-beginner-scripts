@@ -4,9 +4,9 @@
 
 Eg:
 
-![image](../Patterns/Alphabetic%20Patterns/img/alphabeticpattern1.PNG)
+![image](/Patterns/Alphabetic_Patterns/img/alphabeticpattern1.PNG)
 
-**Contributor:** [Your Name](https://github.com/Your-GitHub-Username)
+<!-- **Contributor:** [Your Name](https://github.com/Your-GitHub-Username) -->
 
 :star2: Star it :fork_and_knife:Fork it :handshake: Contribute to it!
 
