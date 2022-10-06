@@ -1,8 +1,8 @@
-# Symbol Pattern 16
+# Symbol Pattern 15
 
 **Pattern Image:**
 
-![image](https://github.com/nirban07/Python-beginner-scripts/blob/main/Patterns/Symbol_Patterns/img/15.PNG)
+![image](https://github.com/Punit-Choudhary/Python-beginner-scripts/blob/main/Patterns/Symbol_Patterns/img/15.PNG)
 
 **Contributor:** [Nirban Roy](https://github.com/nirban07)
 
