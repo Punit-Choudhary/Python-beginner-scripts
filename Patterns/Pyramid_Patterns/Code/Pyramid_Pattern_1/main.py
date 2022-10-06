@@ -28,4 +28,4 @@ def PatternGenerator(n):
         print('\n')
 
 
-PatternGenerator(8)
+PatternGenerator(5)

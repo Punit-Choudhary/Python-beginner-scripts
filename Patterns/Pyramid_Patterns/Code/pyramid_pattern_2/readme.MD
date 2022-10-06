@@ -2,7 +2,7 @@
 
 **Pattern Image:**
 
-![image](https://github.com/Punit-Choudhary/Python-beginner-scripts/blob/main/Patterns/Pyramid_Patterns/img/pyramidpattern2.PNG)
+![image](../../img/pyramidpattern2.PNG)
 
 **Contributor:** [Daksh Jain](https://github.com/Dakshjain1)
 

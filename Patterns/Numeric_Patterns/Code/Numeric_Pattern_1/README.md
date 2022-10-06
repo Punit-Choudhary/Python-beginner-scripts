@@ -1,10 +1,8 @@
-# Numeric Pattern 2
+# Numeric Pattern 1
 
 **Pattern Image:**
 
-![image](../../img/numericpattern2.PNG)
-
-**Contributor:** [Avantsa Raja Yashwanth](https://github.com/R-Yash)
+![image](../../img/numericpattern1.PNG)
 
 :star2: Star it :fork_and_knife:Fork it :handshake: Contribute to it!
 

@@ -12,7 +12,7 @@ def PatternGenerator(n):
 # Inside the loops, we use print() to print the value j.
 # j starts from 1 and as the loop goes on,
 # it increments its value and prints other numbers
-        print('\n')
+        print()
 
 
 PatternGenerator(5)

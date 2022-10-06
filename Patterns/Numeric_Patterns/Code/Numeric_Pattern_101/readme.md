@@ -2,7 +2,7 @@
 
 **Pattern Image:**
 
-![image](/Patterns/Numeric_Patterns/img/numericpattern101.PNG)
+![image](../../img/numericpattern101.PNG)
 
 **Contributor:** [Harshith Naresh Chunduri](https://github.com/Harshith-19)
 
