@@ -1,6 +1,6 @@
 # Numeric Pattern 3
 
-**![image](https://github.com/Punit-Choudhary/Python-beginner-scripts/blob/main/Patterns/Numeric_Patterns/img/numericpattern3.PNG)**
+**![image](../../img/numericpattern3.PNG)**
 
 **Contributor:** [canav1](https://github.com/canav1)
 
