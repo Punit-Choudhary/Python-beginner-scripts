@@ -5,4 +5,6 @@ def numeric_pattern_4(num):
         for j in range(num, 0, -1):
             print(j, end=" ")
         print()
+
+
 numeric_pattern_4(6)
