@@ -2,7 +2,7 @@
 
 **Pattern Image:**
 
-![image](https://github.com/nirban07/Python-beginner-scripts/blob/main/Patterns/Symbol_Patterns/img/16.PNG)
+![image](https://github.com/Punit-Choudhary/Python-beginner-scripts/blob/main/Patterns/Symbol_Patterns/img/16.PNG)
 
 **Contributor:** [Nirban Roy](https://github.com/nirban07)
 
