@@ -2,7 +2,7 @@
 
 *Pattern Image:*
 
-![image](/Patterns/Alphabetic_Patterns/img/alphabeticpattern101.PNG)
+![image](../../img/alphabeticpattern101.PNG)
 
 *Contributor:* [Unknown Cypher](https://github.com/Unknown-Cypher)
 
