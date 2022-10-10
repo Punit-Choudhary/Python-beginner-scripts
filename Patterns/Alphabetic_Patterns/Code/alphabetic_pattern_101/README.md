@@ -2,11 +2,9 @@
 
 *Pattern Image:*
 
-Eg:
+![image](/Patterns/Alphabetic_Patterns/img/alphabeticpattern101.PNG)
 
-![image](../Patterns/Alphabetic%20Patterns/img/alphabeticpattern101.PNG)
-
-*Contributor:* [Your Name](https://github.com/Unknown-Cypher)
+*Contributor:* [Unknown Cypher](https://github.com/Unknown-Cypher)
 
 :star2: Star it :fork_and_knife:Fork it :handshake: Contribute to it!
 
