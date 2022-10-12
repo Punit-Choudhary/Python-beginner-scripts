@@ -3,8 +3,8 @@
 # and accordingly '*' character or space is added
 x = int(input('Enter Number :'))
 # Enter dimensions of square box for which we want to draw pattern
-if (x%2==0):
-    x+=1
+if (x%2 == 0):
+    x += 1
 # Make sure that inputted number is odd or else make it odd
 for i in range(x):  # iterations for rows
     for j in range(x):  # iterations for column
