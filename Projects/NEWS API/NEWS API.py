@@ -71,7 +71,7 @@ if __name__ == '__main__':
 
         # url from which the news will fetch
         url = (
-            f'https://newsapi.org/v2/top-headlines?country={country1.lower()}&category={category.lower()}&apiKey=2114b271bda54165b23a311b1d1e3c49')
+            f'https://newsapi.org/v2/top-headlines?country={country1.lower()}&category={category.lower()}&apiKey=YOUR_API_KEY')
         print(url)
         response = requests.get(url).text
         # {key: value}
