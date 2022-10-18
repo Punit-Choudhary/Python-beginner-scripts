@@ -1,2 +1,0 @@
-Pywin32
-requests
