@@ -1,7 +1,7 @@
 # Patterns
 
 ## What is Patterns category about?
-This category contains pattern images (eg: [AlphabeticPattern1](../Patterns/Alphabetic%20Patterns/img/alphabeticpattern1.PNG)) that you have to draw using python script.
+This category contains pattern images (eg: [AlphabeticPattern1](/Patterns/Alphabetic_Patterns/img/alphabeticpattern1.PNG)) that you have to draw using python script.
 
 
 ## Steps to contribute to Patterns category?
