@@ -1,9 +1,8 @@
-# Taking Length And Breadth Inputs
-length = float(input('Enter The Length Of The Rectangle: '))
-breadth = float(input('Enter The Breadth Of The Trianlge: '))
+# Taking Length and Breadth inputs
+length = float(input('Enter the Length of the Rectangle: '))
+breadth = float(input('Enter The Breadth of the Rectangle: '))
 
-# Calculating The Area Of The Rectangle
+# Calculating the Area of the Rectangle
 area = (length * breadth)
 
-# Ouputing The Area
-print('The Area Of The Rectangle Is:', area)
+print('The Area of the Rectangle is:', area)
