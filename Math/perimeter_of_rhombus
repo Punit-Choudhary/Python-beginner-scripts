@@ -1,0 +1,9 @@
+#accept length of side of rhombus
+side_of_rhombus=float(input("Enter the length of side of rhombus:"))
+
+#calculate
+perimeter=float(4*side_of_rhombus)
+
+#print the perimeter
+print("The perimeter of the rhombus is:")
+print(perimeter)
