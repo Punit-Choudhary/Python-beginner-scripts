@@ -1,0 +1,10 @@
+#accept details
+h=float(input("Enter height of pyramid:"))
+b_a=float(input("Enter base area:"))
+
+#calculate
+vol=(h*b_a)/3
+
+#print the volume
+print("The volume of the triangular pyramid is:")
+print(vol)
