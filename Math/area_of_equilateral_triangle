@@ -5,4 +5,4 @@ side_of_equilateral_triangle=float(input("Enter length of side of equilateral tr
 area=float((1.732*side_of_equilateral_triangle*side_of_equilateral_triangle)/4)
 
 #print the area
-print("The area of the equilateral triangle is:",area)
+print(f"The area of the equilateral triangle is: {area}")
