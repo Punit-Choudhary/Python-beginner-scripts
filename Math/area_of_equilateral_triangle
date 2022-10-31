@@ -1,4 +1,4 @@
-#accept details
+
 side_of_equilateral_triangle=float(input("Enter length of side of equilateral triangle:"))
 
 #calculate
