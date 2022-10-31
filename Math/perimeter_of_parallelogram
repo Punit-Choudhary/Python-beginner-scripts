@@ -1,0 +1,8 @@
+base = float(input("Enter the length of base of parallelogram: "))
+side = float(input("Enter the length of side of parallelogram: "))
+
+# calculate
+perimeter = float(2 * (side + base))
+
+# print the perimeter of parallelogram
+print(f"The perimeter of the parallelogram is: {perimeter}")
