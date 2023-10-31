@@ -3,7 +3,7 @@
 **Pattern Image:**
 
 
-![image](/Patterns/Alphabetic_Patterns/img/alphabeticpattern2.png)
+![image](/Patterns/Alphabetic_Patterns/img/alphabeticpattern2.PNG)
 
 **Contributor:** [Sanskar Shrivastava](https://github.com/SanskarSh)
 
