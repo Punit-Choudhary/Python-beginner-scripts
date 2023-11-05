@@ -39,7 +39,7 @@ spawn_new = True
 init_count = 0
 direction = ""
 score = 0
-file = open("2048\high_score.txt", "r")
+file = open("high_score.txt", "r")
 init_high = int(file.readline())
 file.close()
 high_score = init_high
@@ -230,7 +230,7 @@ while run:
     if game_over:
         draw_over()
         if high_score > init_high:
-            file = open("2048\high_score.txt", "w")
+            file = open("high_score.txt", "w")
             file.write(f"{high_score}")
             file.close()
             init_high = high_score
