@@ -1,5 +1,3 @@
-import math
-
 print("Enter the values of sides of a triangle")
 a = float(input("Enter the value of side a: "))
 b = float(input("Enter the value of side b: "))
