@@ -44,6 +44,7 @@ init_high = int(file.readline())
 file.close()
 high_score = init_high
 
+
 # draw game over and restart text
 def draw_over():
     pygame.draw.rect(screen, "black", [50, 50, 300, 100], 0, 10)
@@ -76,12 +77,18 @@ def draw_pieces(board):
                 color = colors[value]
             else:
                 color = color["other"]
-            pygame.draw.rect(screen, color, [j * 95 + 20, i * 95 + 20, 75, 75], 0, 5)
+            pygame.draw.rect(
+                screen, color, [j * 95 + 20, i * 95 + 20, 75, 75], 0, 5
+                )
             if value > 0:
                 value_len = len(str(value))
-                font = pygame.font.Font("freesansbold.ttf", 48 - (5 * value_len))
+                font = pygame.font.Font(
+                    "freesansbold.ttf", 48 - (5 * value_len)
+                    )
                 value_text = font.render(str(value), True, value_color)
-                text_rect = value_text.get_rect(center=(j * 95 + 57, i * 95 + 57))
+                text_rect = value_text.get_rect(
+                    center=(j * 95 + 57, i * 95 + 57)
+                    )
                 screen.blit(value_text, text_rect)
                 pygame.draw.rect(
                     screen, "black", [j * 95 + 20, i * 95 + 20, 75, 75], 2, 5
@@ -93,7 +100,8 @@ def draw_pieces(board):
 def is_game_over(board):
     for i in range(3):
         for j in range(3):
-            if board[i][j] == board[i + 1][j] or board[i][j] == board[i][j + 1]:
+            if (board[i][j] == board[i + 1][j] or
+                    board[i][j] == board[i][j + 1]):
                 return False
 
     for j in range(3):
@@ -103,7 +111,7 @@ def is_game_over(board):
     for i in range(3):
         if board[i][3] == board[i + 1][3]:
             return False
-    ## if there's no valid move left, the game is over
+    # if there's no valid move left, the game is over
     return True
 
 
